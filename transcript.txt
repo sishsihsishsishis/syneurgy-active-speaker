@@ -1,0 +1,63 @@
+Speaker	Start	End	Sentence	Emotion	DialogueAct
+speaker01	0.0	0.58	 record to this.	neutral	Abandoned or Turn-Exit
+speaker01	0.62	0.86	 okay.	neutral	Acknowledge (Backchannel)
+speaker01	9.06	11.28	 i can't believe how poorly the project turned out.	negative	Statement-non-opinion
+speaker01	11.34	12.04	 it's unbelievable.	positive	Statement-opinion
+speaker00	13.14	13.8	 hold on.	neutral	Action-directive
+speaker00	13.88	14.86	 it wasn't that bad.	neutral	Statement-non-opinion
+speaker01	15.12	15.78	 we just...	neutral	Statement-non-opinion
+speaker01	15.78	16.3	 just what?	neutral	Wh-Question
+speaker01	16.42	17.84	 it was a total mess, honestly.	negative	Statement-non-opinion
+speaker01	18.04	19.08	 did you even look at the figures?	positive	Yes-No-Question
+speaker00	20.38	22.3	 yes, but you're not listening to me.	positive	Action-directive
+speaker00	22.66	23.52	 if we can see...	neutral	Statement-opinion
+speaker00	23.52	24.06	 no, no, no.	neutral	Agree/Accept
+speaker01	24.1	24.64	 you listen.	neutral	Statement-opinion
+speaker01	24.84	26.2	 every time we try something,	neutral	Statement-non-opinion
+speaker01	26.3	27.4	 it's like you're not even trying.	positive	Statement-opinion
+speaker01	27.52	28.26	 it's frustrating.	negative	Statement-opinion
+speaker00	30.0	35.42	 can i speak? you keep cutting me off. what i'm trying to say is...	negative	Action-directive
+speaker01	35.42	39.52	 yeah, i'm tired of excuses. i expected better results. this was a simple task.	positive	Statement-non-opinion
+speaker00	40.7	47.02	 simple? you even understand the complexity of what we were dealing with? the data was all over the place.	positive	Yes-No-Question
+speaker01	47.02	52.42	 exactly, exactly. excuses again. why can't you admit we failed because we weren't prepared enough?	positive	Abandoned or Turn-Exit
+speaker00	53.260000000000005	58.8	 we? it seems like you're putting all the blame on me. you were part of this too.	positive	Action-directive
+speaker01	58.8	64.16	 oh, please. i did my part. i was the one who stayed late every day, not you.	negative	Action-directive
+speaker00	65.56	70.16	 that's not fair, alex. i had other responsibilities, too. you know that.	positive	Statement-opinion
+speaker01	70.67999999999999	75.03999999999999	 responsibilities or not, this project was a priority. you just don't get it.	positive	Statement-opinion
+speaker00	76.14	82.86	 i get it just fine. but you making it harder doesn't help. you're always so negative.	negative	Statement-opinion
+speaker01	82.86	90.7	 well, someone has to be realistic here. you just keep dreaming that all the things will fix themselves.	negative	Statement-opinion
+speaker00	91.88	97.5	 that's not true. i'm being proactive, but with you always on my back, it's tough.	negative	Statement-non-opinion
+speaker01	97.8	101.28	 whatever, jordan. if you can't handle feedback, maybe you shouldn't be on this team.	negative	Statement-opinion
+speaker00	102.4	110.5	 maybe if the feedback was actually constructive and not just blaming, it would be easier to handle.	neutral	Statement-opinion
+speaker01	110.5	112.72	 this isn't going anywhere. let's just drop it.	positive	Statement-opinion
+speaker00	112.86	115.86	 fine by me.	neutral	Conventional-closing
+speaker01	115.86	142.86	 i've been reflecting on our project and i feel there were some challenges we didn't	neutral	Statement-non-opinion
+speaker01	142.86	143.86	 anticipate.	neutral	Abandoned or Turn-Exit
+speaker00	143.86	150.86	 think happened? i appreciate your thoughts, alex. yes, there were definitely some enforcing issues.	neutral	Rhetorical-Questions
+speaker00	151.22000000000003	156.8	 perhaps we might consider additional data analysis next time. what's your view on that approach?	neutral	Open-Question
+speaker01	157.68	161.36	 yeah, that's a great suggestion, jordan. i agree that deeper analysis could help.	neutral	Statement-opinion
+speaker01	161.84	166.02	 i also noticed you put in a lot of effort, especially with the resources we had. it was	neutral	Statement-non-opinion
+speaker00	166.02	173.46	 a tough project and your dedication was evident. that's fair acknowledging that, alex. i saw your	neutral	Statement-opinion
+speaker00	173.46	179.94	 commitment as well. do you want to cut this off? sorry.	neutral	Yes-No-Question
+speaker01	181.02	182.46	 okay. no worries.	neutral	Affirmative non-yes answers
+speaker01	187.82	191.68	 i've been reflecting on our project and i feel there were some challenges we didn't anticipate.	neutral	Statement-non-opinion
+speaker00	191.68	197.74	 what do you think happened? i appreciate your thoughts, alex. yes, there were definitely some	neutral	Wh-Question
+speaker00	197.74	204.14	 and forcing issues. perhaps we might consider additional data analysis next time. what's your	neutral	Abandoned or Turn-Exit
+speaker01	204.14	209.98	 view on that approach? that's a great suggestion, jordan. i agree that deeper analysis could help.	neutral	Yes-No-Question
+speaker01	210.2	214.58	 i also noticed you put in a lot of effort, especially with the resources we had. it was	neutral	Statement-non-opinion
+speaker01	214.58	221.84	 a tough project and your dedication was evident. thanks for acknowledging that, alex. i saw your	neutral	Statement-opinion
+speaker00	221.84	229.02	 commitment as well. staying late showed your dedication. maybe we can both coordinate our	neutral	Abandoned or Turn-Exit
+speaker00	229.02	236.46	 schedules better next time to manage our work-life balance while giving the project the attention it	neutral	Abandoned or Turn-Exit
+speaker01	236.46	242.36	 needs. absolutely. balancing responsibilities is crucial, and i think we can support each other	neutral	Statement-opinion
+speaker01	242.36	247.3	 more effectively. perhaps we could also schedule regular check-ins to stay aligned and troubleshoot	neutral	Statement-opinion
+speaker00	247.3	254.58	 together. that sounds like a perfect plan. regular meetings could indeed keep us on track and	neutral	Abandoned or Turn-Exit
+speaker00	254.58	260.7	 facilitate better communication. i also believe that sharing responsibilities more clearly could	neutral	Statement-opinion
+speaker00	260.7	267.6	 enhance our teamwork. what are your thoughts on setting clear roles for our next project?	neutral	Wh-Question
+speaker01	268.42	273.90000000000003	 i completely agree with you, jordan. setting clear roles and responsibilities will definitely	neutral	Agree/Accept
+speaker01	273.9	279.08	 enhance our efficiency. we both bring unique strengths to the table, and by combining them	neutral	Abandoned or Turn-Exit
+speaker01	279.08	284.92	 more effectively, we're bound to see better results. exactly, alex. i'm looking forward	positive	Abandoned or Turn-Exit
+speaker00	284.92	291.6	 to applying these insights. it's really productive to discuss and plan this way.	neutral	Abandoned or Turn-Exit
+speaker01	291.94	297.96	 i feel confident about our next step. me too, jordan. it's refreshing to work	positive	Statement-non-opinion
+speaker01	297.96	303.48	 through this constructively. thanks for being open and engaging in this conversation. i'm	neutral	Abandoned or Turn-Exit
+speaker01	303.48	309.72	 optimistic about what we can achieve together moving forward. likewise, alex, let's keep this	neutral	Abandoned or Turn-Exit
+speaker00	309.72	315.54	 positive momentum going. thanks for such a collaborative discussion today.	neutral	Abandoned or Turn-Exit

@@ -1,0 +1,10 @@
+torch
+facenet-pytorch
+numpy
+opencv-python
+scipy
+scikit-learn
+Pillow
+tqdm
+python-speech-features
+pandas
